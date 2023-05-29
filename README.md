@@ -1,4 +1,21 @@
+# React Components with Tailwind Styles
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This repository contains a collection of React components styled using Tailwind CSS. The components are built using Next.js and utilize TypeScript for enhanced type safety.
+
+## Features
+
+- Collection of reusable React components
+- Components styled using Tailwind CSS
+- References Flowbite UI Kit for component inspiration https://flowbite.com/
+- Built with Next.js for server-side rendering and enhanced performance
+- Utilizes TypeScript for improved type safety
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's learn and grow together!
+
 
 ## Getting Started
 
