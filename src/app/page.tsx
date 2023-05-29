@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Accordion from './components/Accordion'
+import Accordion from './components/Accordion/Accordion'
 import TestAccordion from './components/TestAccordion'
 
 export default function Home() {
