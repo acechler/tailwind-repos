@@ -5,7 +5,7 @@ import TestCard from "./components/Card/TestCard"
 export default function Home() {
   return (
     <main className="bg-slate-800 min-h-screen p-24">
-     {TestCard()}
+     <TestCard />
     </main>
   );
 }

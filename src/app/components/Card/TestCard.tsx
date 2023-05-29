@@ -36,12 +36,13 @@ const TestCard = () => {
                 id, vel itaque ullam laudantium deleniti nihil fugit quas
                 molestias, modi recusandae veniam esse fugiat!
               </p>
+
+              
             </>
           }
         />
-
         <Card
-          title="Card Template three"
+          title="Card Template Three"
           content={
             <>
               <p className="text-gray-500 dark:text-gray-400">
@@ -57,9 +58,11 @@ const TestCard = () => {
                 id, vel itaque ullam laudantium deleniti nihil fugit quas
                 molestias, modi recusandae veniam esse fugiat!
               </p>
+              
             </>
           }
         />
+       
       </div>
     </div>
   );
