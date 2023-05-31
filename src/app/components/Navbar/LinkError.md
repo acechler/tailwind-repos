@@ -2,7 +2,7 @@
 
 ## Issue:
 
-The application was encountering a 404 error when attempting to navigate to another page from the navbar using `next/link`. The links were defined correctly in the JSX, but upon clicking, the application was unable to route to the desired page, leading to a 404 error.
+The application was encountering a 404 error when attempting to navigate to another page from the navbar using `next/link`. The links were defined correctly in the TSX, but upon clicking, the application was unable to route to the desired page, leading to a 404 error.
 
 ## Diagnosis:
 
